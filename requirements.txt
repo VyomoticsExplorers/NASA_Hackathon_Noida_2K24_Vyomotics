@@ -1,0 +1,9 @@
+streamlit
+obspy
+lxml
+numpy
+matplotlib
+scipy
+tensorflow
+sklearn
+pandas
